@@ -1,0 +1,1021 @@
+{
+ "format": 1,
+ "id": "mw4",
+ "game": "Call of Duty: Modern Warfare 4",
+ "short": "MW4",
+ "year": 2026,
+ "rev": 2,
+ "updated": "2026-11-12",
+ "notes": "Weapon names are used to keep progress, so never rename a weapon once released. Specials: name, then the challenge in Multiplayer, DMZ and Warzone (blank = not confirmed yet).",
+ "modes": {
+  "wz": "Warzone",
+  "mp": "Multiplayer",
+  "dmz": "DMZ"
+ },
+ "military": 8,
+ "gold": "15 kills in a single match (DMZ: 100)",
+ "classes": [
+  {
+   "id": "ar",
+   "name": "Assault Rifles",
+   "platinum": "50 headshots",
+   "harmonic": "25 double kills (DMZ: 50)",
+   "weapons": [
+    {
+     "name": "Han 86",
+     "maxLevel": 72,
+     "specials": [
+      {
+       "name": "Smoke",
+       "mp": "20 mounted kills",
+       "dmz": "75 mounted kills",
+       "wz": "10 mounted kills"
+      },
+      {
+       "name": "Stormwave",
+       "mp": "50 kills with a silencer",
+       "dmz": "125 kills with a silencer",
+       "wz": "25 kills with a silencer"
+      },
+      {
+       "name": "Red",
+       "mp": "3 kills without dying, 15 times",
+       "dmz": "3 kills without taking damage, 50 times",
+       "wz": "3 kills without dying, 8 times"
+      }
+     ]
+    },
+    {
+     "name": "M4",
+     "maxLevel": 72,
+     "specials": [
+      {
+       "name": "Myriad",
+       "mp": "20 point blank kills",
+       "dmz": "75 point blank kills",
+       "wz": "10 point blank kills"
+      },
+      {
+       "name": "Night Ops",
+       "mp": "20 mounted kills",
+       "dmz": "75 mounted kills",
+       "wz": "10 mounted kills"
+      },
+      {
+       "name": "Green",
+       "mp": "25 kills from behind",
+       "dmz": "100 kills from behind",
+       "wz": "15 kills from behind"
+      }
+     ]
+    },
+    {
+     "name": "Hyeon Burst",
+     "maxLevel": 68,
+     "specials": [
+      {
+       "name": "Ponderosa",
+       "mp": "2 kills without reloading, 10 times",
+       "dmz": "2 kills without reloading, 30 times",
+       "wz": "2 kills without reloading, 5 times"
+      },
+      {
+       "name": "Red Rain",
+       "mp": "20 longshot kills",
+       "dmz": "75 longshot kills",
+       "wz": "10 longshot kills"
+      },
+      {
+       "name": "Kitty Kaos",
+       "mp": "100 kills with a silencer",
+       "dmz": "250 kills with a silencer",
+       "wz": "45 kills with a silencer"
+      }
+     ]
+    },
+    {
+     "name": "Patriot XMR",
+     "maxLevel": 72,
+     "specials": [
+      {
+       "name": "Dune Sea",
+       "mp": "20 hipfire kills",
+       "dmz": "75 hipfire kills",
+       "wz": "10 hipfire kills"
+      },
+      {
+       "name": "Scorch",
+       "mp": "50 kills with a silencer",
+       "dmz": "125 kills with a silencer",
+       "wz": "25 kills with a silencer"
+      },
+      {
+       "name": "Disperse",
+       "mp": "30 longshot kills",
+       "dmz": "100 longshot kills",
+       "wz": "15 longshot kills"
+      }
+     ]
+    },
+    {
+     "name": "Kastov 762",
+     "maxLevel": 68,
+     "specials": [
+      {
+       "name": "Samnim",
+       "mp": "4 kills without dying, 10 times",
+       "dmz": "5 kills without taking damage, 25 times",
+       "wz": "3 kills without dying, 5 times"
+      },
+      {
+       "name": "Raster Aux",
+       "mp": "20 longshot kills",
+       "dmz": "75 longshot kills",
+       "wz": "10 longshot kills"
+      },
+      {
+       "name": "Yellow",
+       "mp": "30 hipfire kills",
+       "dmz": "100 hipfire kills",
+       "wz": "15 hipfire kills"
+      }
+     ]
+    },
+    {
+     "name": "Oden",
+     "maxLevel": 65,
+     "specials": [
+      {
+       "name": "Dark Moss",
+       "mp": "25 kills with the Miri 40MM grenade launcher",
+       "dmz": "75 kills with the Miri 40MM grenade launcher",
+       "wz": "15 kills with the Miri 40MM grenade launcher"
+      },
+      {
+       "name": "Shale",
+       "mp": "2 kills without reloading, 10 times",
+       "dmz": "2 kills without reloading, 30 times",
+       "wz": "2 kills without reloading, 5 times"
+      },
+      {
+       "name": "Hotrod",
+       "mp": "100 kills while ADS",
+       "dmz": "250 kills while ADS",
+       "wz": "45 kills while ADS"
+      }
+     ]
+    },
+    {
+     "name": "Axion",
+     "maxLevel": 69,
+     "specials": [
+      {
+       "name": "Splinter Rock",
+       "mp": "20 longshot kills",
+       "dmz": "75 longshot kills",
+       "wz": "10 longshot kills"
+      },
+      {
+       "name": "Sunset Tropic",
+       "mp": "25 kills with the Miri 40MM grenade launcher",
+       "dmz": "75 kills with the Miri 40MM grenade launcher",
+       "wz": "10 kills with the Miri 40MM grenade launcher"
+      },
+      {
+       "name": "Cyan",
+       "mp": "2 kills without reloading, 25 times",
+       "dmz": "2 kills without reloading, 50 times",
+       "wz": "2 kills without reloading, 15 times"
+      }
+     ]
+    },
+    {
+     "name": "Cronen Squall",
+     "maxLevel": 67,
+     "specials": [
+      {
+       "name": "Oni",
+       "mp": "20 point blank kills",
+       "dmz": "75 point blank kills",
+       "wz": "10 point blank kills"
+      },
+      {
+       "name": "Urban Smoke",
+       "mp": "20 mounted kills",
+       "dmz": "75 mounted kills",
+       "wz": "10 mounted kills"
+      },
+      {
+       "name": "Optical Reverb",
+       "mp": "3 kills without dying, 15 times",
+       "dmz": "3 kills without taking damage, 50 times",
+       "wz": "3 kills without dying, 10 times"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "smg",
+   "name": "SMGs",
+   "platinum": "25 kills from behind",
+   "harmonic": "50 hipfire kills (DMZ: 100)",
+   "weapons": [
+    {
+     "name": "ISO Nightshade",
+     "maxLevel": 64,
+     "specials": [
+      {
+       "name": "Asphalt",
+       "mp": "50 kills while ADS",
+       "dmz": "125 kills while ADS",
+       "wz": "25 kills while ADS"
+      },
+      {
+       "name": "Black Topo",
+       "mp": "10 double kills",
+       "dmz": "30 double kills",
+       "wz": "2 kills within 10 seconds, 5 times"
+      },
+      {
+       "name": "Brown",
+       "mp": "3 kills without dying, 15 times",
+       "dmz": "3 kills without taking damage, 50 times",
+       "wz": "10 longshot kills"
+      }
+     ]
+    },
+    {
+     "name": "VEL 46",
+     "maxLevel": 60,
+     "specials": [
+      {
+       "name": "Jungle Shadow",
+       "mp": "50 kills while ADS",
+       "dmz": "125 kills while ADS",
+       "wz": "25 kills while ADS"
+      },
+      {
+       "name": "Ghast",
+       "mp": "20 kills while prone",
+       "dmz": "100 kills while prone",
+       "wz": "10 kills while prone"
+      },
+      {
+       "name": "Gunmetal",
+       "mp": "20 headshots",
+       "dmz": "75 headshots",
+       "wz": "10 headshots"
+      }
+     ]
+    },
+    {
+     "name": "WZ.55 Striga",
+     "maxLevel": 60,
+     "specials": [
+      {
+       "name": "Stellation",
+       "mp": "50 kills with a silencer",
+       "dmz": "125 kills with a silencer",
+       "wz": "25 kills with a silencer"
+      },
+      {
+       "name": "Rattlesnake",
+       "mp": "20 kills while jumping",
+       "dmz": "50 kills while jumping",
+       "wz": "10 kills while jumping"
+      },
+      {
+       "name": "Dark Tan",
+       "mp": "40 point blank kills",
+       "dmz": "100 point blank kills",
+       "wz": "20 point blank kills"
+      }
+     ]
+    },
+    {
+     "name": "PPSh-41",
+     "maxLevel": 62,
+     "specials": [
+      {
+       "name": "Blackwell",
+       "mp": "10 double kills",
+       "dmz": "30 double kills",
+       "wz": "2 kills within 10 seconds, 5 times"
+      },
+      {
+       "name": "Iron",
+       "mp": "20 longshot kills",
+       "dmz": "75 longshot kills",
+       "wz": "10 longshot kills"
+      },
+      {
+       "name": "Currents",
+       "mp": "100 kills while ADS",
+       "dmz": "250 kills while ADS",
+       "wz": "45 kills while ADS"
+      }
+     ]
+    },
+    {
+     "name": "X-58 Nyx",
+     "maxLevel": 53,
+     "specials": [
+      {
+       "name": "Sniper Veil",
+       "mp": "20 kills while moving",
+       "dmz": "75 kills while moving",
+       "wz": "10 kills while moving"
+      },
+      {
+       "name": "Carbonated",
+       "mp": "20 longshot kills",
+       "dmz": "75 longshot kills",
+       "wz": "10 longshot kills"
+      },
+      {
+       "name": "Lime",
+       "mp": "40 headshot kills",
+       "dmz": "100 headshots",
+       "wz": "20 headshot kills"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sg",
+   "name": "Shotguns",
+   "platinum": "50 hipfire kills",
+   "harmonic": "2 kills without reloading, 25 times (DMZ: 50)",
+   "weapons": [
+    {
+     "name": "Rezi 12",
+     "maxLevel": 60,
+     "specials": [
+      {
+       "name": "Struck Oil",
+       "mp": "20 point blank kills",
+       "dmz": "75 point blank kills",
+       "wz": ""
+      },
+      {
+       "name": "Brushstroke",
+       "mp": "10 longshot kills",
+       "dmz": "50 longshot kills",
+       "wz": ""
+      },
+      {
+       "name": "White Pine",
+       "mp": "40 kills while jumping",
+       "dmz": "100 kills while jumping",
+       "wz": ""
+      }
+     ]
+    },
+    {
+     "name": "Warlord",
+     "maxLevel": 60,
+     "specials": [
+      {
+       "name": "Redshift",
+       "mp": "20 kills while moving",
+       "dmz": "75 kills while moving",
+       "wz": ""
+      },
+      {
+       "name": "Corrupted Clay",
+       "mp": "10 double kills",
+       "dmz": "30 double kills",
+       "wz": ""
+      },
+      {
+       "name": "Magma Ire",
+       "mp": "50 kills while prone",
+       "dmz": "125 kills while prone",
+       "wz": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lmg",
+   "name": "LMGs",
+   "platinum": "3 kills without dying, 15 times",
+   "harmonic": "2 kills without releasing the trigger, 25 times (DMZ: 75)",
+   "weapons": [
+    {
+     "name": "FiNN LMG",
+     "maxLevel": 59,
+     "specials": [
+      {
+       "name": "Desert Tactics",
+       "mp": "20 point blank kills",
+       "dmz": "75 point blank kills",
+       "wz": ""
+      },
+      {
+       "name": "Green Tiger",
+       "mp": "2 kills without reloading, 10 times",
+       "dmz": "2 kills without reloading, 30 times",
+       "wz": ""
+      },
+      {
+       "name": "Thunderhead",
+       "mp": "30 longshot kills",
+       "dmz": "100 longshot kills",
+       "wz": ""
+      }
+     ]
+    },
+    {
+     "name": "Type 73",
+     "maxLevel": 65,
+     "specials": [
+      {
+       "name": "Ash Pine",
+       "mp": "20 mounted kills",
+       "dmz": "75 mounted kills",
+       "wz": "10 mounted kills"
+      },
+      {
+       "name": "Outcrop",
+       "mp": "10 double kills",
+       "dmz": "30 double kills",
+       "wz": "2 kills within 10 seconds, 5 times"
+      },
+      {
+       "name": "Foxtrail",
+       "mp": "40 headshots",
+       "dmz": "100 headshots",
+       "wz": "20 headshots"
+      }
+     ]
+    },
+    {
+     "name": "APOC-338",
+     "maxLevel": 56,
+     "specials": [
+      {
+       "name": "Phantom Flux",
+       "mp": "20 hipfire kills",
+       "dmz": "75 hipfire kills",
+       "wz": "10 hipfire kills"
+      },
+      {
+       "name": "Mineral",
+       "mp": "20 longshot kills",
+       "dmz": "75 longshot kills",
+       "wz": "10 longshot kills"
+      },
+      {
+       "name": "Tiger Swipe",
+       "mp": "100 kills while prone",
+       "dmz": "250 kills while prone",
+       "wz": "45 kills while prone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mr",
+   "name": "Marksman Rifles",
+   "platinum": "75 kills while prone",
+   "harmonic": "75 one-shot kills (DMZ: 150)",
+   "weapons": [
+    {
+     "name": "MAR-9",
+     "maxLevel": 73,
+     "specials": [
+      {
+       "name": "Mangrove",
+       "mp": "20 mounted kills",
+       "dmz": "75 mounted kills",
+       "wz": ""
+      },
+      {
+       "name": "Fungal Grid",
+       "mp": "25 kills while crouched",
+       "dmz": "75 kills while crouched",
+       "wz": ""
+      },
+      {
+       "name": "White",
+       "mp": "30 longshot kills",
+       "dmz": "100 longshot kills",
+       "wz": ""
+      }
+     ]
+    },
+    {
+     "name": "Oris 8.6",
+     "maxLevel": 70,
+     "specials": [
+      {
+       "name": "Hibiscus",
+       "mp": "10 quickscope kills",
+       "dmz": "50 quickscope kills",
+       "wz": "5 quickscope kills"
+      },
+      {
+       "name": "Fire Topo",
+       "mp": "20 double kills",
+       "dmz": "50 double kills",
+       "wz": "2 kills within 10 seconds, 10 times"
+      },
+      {
+       "name": "Deep Space",
+       "mp": "3 kills without dying, 15 times",
+       "dmz": "3 kills without taking damage, 50 times",
+       "wz": "3 kills without dying, 10 times"
+      }
+     ]
+    },
+    {
+     "name": "Mosin-Nagant",
+     "maxLevel": 69,
+     "specials": [
+      {
+       "name": "Ice Sheer",
+       "mp": "25 headshots",
+       "dmz": "75 headshots",
+       "wz": "15 headshots"
+      },
+      {
+       "name": "Fractal Snow",
+       "mp": "2 kills without reloading, 10 times",
+       "dmz": "2 kills without reloading, 30 times",
+       "wz": "2 kills without reloading, 5 times"
+      },
+      {
+       "name": "Sticker Shock",
+       "mp": "100 kills while focused",
+       "dmz": "250 kills while focused",
+       "wz": "45 kills while focused"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sr",
+   "name": "Sniper Rifles",
+   "platinum": "75 kills while prone",
+   "harmonic": "75 one-shot kills (DMZ: 150)",
+   "weapons": [
+    {
+     "name": "KG-7 Vulcan",
+     "maxLevel": 75,
+     "specials": [
+      {
+       "name": "Treeline",
+       "mp": "10 hipfire kills",
+       "dmz": "25 hipfire kills",
+       "wz": "5 hipfire kills"
+      },
+      {
+       "name": "Spidersilk",
+       "mp": "20 headshot kills",
+       "dmz": "75 headshot kills",
+       "wz": "10 headshot kills"
+      },
+      {
+       "name": "Tension",
+       "mp": "2 kills without taking damage, 20 times",
+       "dmz": "2 kills without taking damage, 30 times",
+       "wz": "2 kills without taking damage, 10 times"
+      }
+     ]
+    },
+    {
+     "name": "Astaroth .57",
+     "maxLevel": 54,
+     "specials": [
+      {
+       "name": "Dry Brush",
+       "mp": "3 kills without dying, 10 times",
+       "dmz": "3 kills without taking damage, 25 times",
+       "wz": "3 kills without dying, 5 times"
+      },
+      {
+       "name": "Backcountry",
+       "mp": "20 mounted kills",
+       "dmz": "75 mounted kills",
+       "wz": "10 mounted kills"
+      },
+      {
+       "name": "Dread Plague",
+       "mp": "2 kills within 5 seconds, 20 times",
+       "dmz": "2 kills within 5 seconds, 50 times",
+       "wz": "2 kills within 5 seconds, 10 times"
+      }
+     ]
+    },
+    {
+     "name": "Signal 50",
+     "maxLevel": 74,
+     "specials": [
+      {
+       "name": "Anaconda",
+       "mp": "2 kills within 5 seconds, 10 times",
+       "dmz": "2 kills within 5 seconds, 25 times",
+       "wz": "2 kills within 5 seconds, 5 times"
+      },
+      {
+       "name": "Ripplewave",
+       "mp": "20 quickscope kills",
+       "dmz": "30 quickscope kills",
+       "wz": "10 quickscope kills"
+      },
+      {
+       "name": "Sunburn",
+       "mp": "40 longshot kills",
+       "dmz": "100 longshot kills",
+       "wz": "20 longshot kills"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pi",
+   "name": "Pistols",
+   "platinum": "20 kills from behind",
+   "harmonic": "40 hipfire kills (DMZ: 100)",
+   "weapons": [
+    {
+     "name": "Sang 9mm",
+     "maxLevel": 38,
+     "specials": [
+      {
+       "name": "Autumn",
+       "mp": "25 kills while ADS",
+       "dmz": "75 kills while ADS",
+       "wz": ""
+      },
+      {
+       "name": "Snakeskin",
+       "mp": "3 kills without dying, 5 times",
+       "dmz": "3 kills without taking damage, 15 times",
+       "wz": ""
+      },
+      {
+       "name": "Space Time",
+       "mp": "50 kills with Akimbo",
+       "dmz": "125 kills with Akimbo",
+       "wz": ""
+      }
+     ]
+    },
+    {
+     "name": "Krait P68",
+     "maxLevel": 38,
+     "specials": [
+      {
+       "name": "Off Grid",
+       "mp": "15 kills while ledge hanging",
+       "dmz": "50 kills while ledge hanging",
+       "wz": "10 sliding kills"
+      },
+      {
+       "name": "Urban Flamingo",
+       "mp": "15 point blank kills",
+       "dmz": "50 point blank kills",
+       "wz": "10 point blank kills"
+      },
+      {
+       "name": "Smokescreen",
+       "mp": "50 kills with a silencer",
+       "dmz": "125 kills with a silencer",
+       "wz": "25 kills with a silencer"
+      }
+     ]
+    },
+    {
+     "name": ".50 GS",
+     "maxLevel": 37,
+     "specials": [
+      {
+       "name": "Frosted",
+       "mp": "20 headshot kills",
+       "dmz": "75 headshot kills",
+       "wz": "10 headshot kills"
+      },
+      {
+       "name": "Splatter Ops",
+       "mp": "7 double kills",
+       "dmz": "20 double kills",
+       "wz": "2 kills within 10 seconds, 5 times"
+      },
+      {
+       "name": "Red Tiger",
+       "mp": "30 point blank kills",
+       "dmz": "75 point blank kills",
+       "wz": "15 point blank kills"
+      }
+     ]
+    },
+    {
+     "name": "Mojave .357",
+     "maxLevel": 44,
+     "specials": [
+      {
+       "name": "Miami",
+       "mp": "15 one-shot kills",
+       "dmz": "50 one-shot kills",
+       "wz": "10 kills without taking damage from the target"
+      },
+      {
+       "name": "Wallpaper",
+       "mp": "2 kills without reloading, 10 times",
+       "dmz": "2 kills without reloading, 20 times",
+       "wz": "2 kills without reloading, 5 times"
+      },
+      {
+       "name": "Garland",
+       "mp": "30 point blank kills",
+       "dmz": "75 point blank kills",
+       "wz": "15 point blank kills"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la",
+   "name": "Launchers",
+   "platinum": "2 kills without taking damage, 15 times",
+   "harmonic": "10 player kills in a match, 7 times (DMZ: 15)",
+   "gold": "15 kills in a match (DMZ: 50)",
+   "weapons": [
+    {
+     "name": "PILA",
+     "maxLevel": 46,
+     "specials": [
+      {
+       "name": "Frontier",
+       "mp": "10 direct shot kills",
+       "dmz": "",
+       "wz": ""
+      },
+      {
+       "name": "Sandwash",
+       "mp": "5 double kills",
+       "dmz": "",
+       "wz": ""
+      },
+      {
+       "name": "Digital Fall",
+       "mp": "Destroy 30 killstreaks or vehicles",
+       "dmz": "",
+       "wz": ""
+      }
+     ]
+    },
+    {
+     "name": "RPG-8",
+     "maxLevel": 46,
+     "specials": [
+      {
+       "name": "Digi Bark",
+       "mp": "10 kills while prone",
+       "dmz": "",
+       "wz": ""
+      },
+      {
+       "name": "Stone Bits",
+       "mp": "10 longshot kills",
+       "dmz": "",
+       "wz": ""
+      },
+      {
+       "name": "Bubblegum Ops",
+       "mp": "Destroy 30 killstreaks or vehicles",
+       "dmz": "",
+       "wz": ""
+      }
+     ]
+    },
+    {
+     "name": "JOKR",
+     "maxLevel": 46,
+     "specials": [
+      {
+       "name": "Thicket",
+       "mp": "5 double kills",
+       "dmz": "",
+       "wz": ""
+      },
+      {
+       "name": "Tectonic",
+       "mp": "10 longshot kills",
+       "dmz": "",
+       "wz": ""
+      },
+      {
+       "name": "Blue Tiger",
+       "mp": "Destroy 30 killstreaks or vehicles",
+       "dmz": "",
+       "wz": ""
+      }
+     ]
+    },
+    {
+     "name": "PM-40 Anvil",
+     "maxLevel": 46,
+     "specials": [
+      {
+       "name": "Night Snow",
+       "mp": "25 direct shot kills",
+       "dmz": "",
+       "wz": ""
+      },
+      {
+       "name": "Recursive",
+       "mp": "2 kills without reloading, 5 times",
+       "dmz": "",
+       "wz": ""
+      },
+      {
+       "name": "Urban Standard",
+       "mp": "40 kills while moving",
+       "dmz": "",
+       "wz": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "me",
+   "name": "Melee",
+   "platinum": "3 kills without dying, 15 times",
+   "harmonic": "25 kills from behind (DMZ: 75)",
+   "weapons": [
+    {
+     "name": "FSS Carbon Edge 1095",
+     "maxLevel": 46,
+     "specials": [
+      {
+       "name": "Raster Lite",
+       "mp": "25 kills while jumping",
+       "dmz": "100 kills while jumping",
+       "wz": "15 kills while jumping"
+      },
+      {
+       "name": "Stockpile",
+       "mp": "25 kills with the heavy melee finisher",
+       "dmz": "75 kills with the heavy melee finisher",
+       "wz": "15 kills with the heavy melee finisher"
+      },
+      {
+       "name": "Deathbed",
+       "mp": "2 kills within 5 seconds, 25 times",
+       "dmz": "2 kills within 5 seconds, 50 times",
+       "wz": "2 kills within 5 seconds, 15 times"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "season": [
+  {
+   "class": "ar",
+   "name": "Cronen Osprey",
+   "maxLevel": 70,
+   "unlock": "Season 1 \u00b7 Battle Pass tier 16",
+   "specials": [
+    {
+     "name": "In The Weeds",
+     "mp": "",
+     "dmz": "",
+     "wz": ""
+    },
+    {
+     "name": "Dark Ichor",
+     "mp": "",
+     "dmz": "",
+     "wz": ""
+    },
+    {
+     "name": "Chained",
+     "mp": "",
+     "dmz": "",
+     "wz": ""
+    }
+   ]
+  },
+  {
+   "class": "smg",
+   "name": "CSG-35",
+   "maxLevel": 42,
+   "unlock": "Season 1 \u00b7 Battle Pass tier 36",
+   "specials": [
+    {
+     "name": "Polyhedron",
+     "mp": "",
+     "dmz": "",
+     "wz": ""
+    },
+    {
+     "name": "Rind",
+     "mp": "",
+     "dmz": "",
+     "wz": ""
+    },
+    {
+     "name": "Black Grip",
+     "mp": "",
+     "dmz": "",
+     "wz": ""
+    }
+   ]
+  },
+  {
+   "class": "sg",
+   "name": "JAK 12",
+   "maxLevel": 0,
+   "unlock": "Season 1 \u00b7 midseason event"
+  },
+  {
+   "class": "me",
+   "name": "ZLR Talonhawk",
+   "maxLevel": 10,
+   "unlock": "Season 1 \u00b7 midseason event"
+  }
+ ],
+ "mastery": {
+  "mp": [
+   {
+    "name": "Mercurial Drift",
+    "challenge": "10 kills in a match",
+    "target": 250
+   },
+   {
+    "name": "Polyatomic Reforged",
+    "challenge": "3 kills without taking damage",
+    "target": 300
+   },
+   {
+    "name": "Orion Reforged",
+    "challenge": "5 kills without dying",
+    "target": 500
+   }
+  ],
+  "dmz": [
+   {
+    "name": "Chiral",
+    "challenge": "Tier 3+ enemy kills",
+    "target": 2500
+   },
+   {
+    "name": "Ripple Tide",
+    "challenge": "Exfil 2 LT dog tags in one deployment",
+    "target": 50
+   },
+   {
+    "name": "Helio",
+    "challenge": "Kills with Legendary weapons on a max-level Operator",
+    "target": 25000
+   }
+  ],
+  "wz": [
+   {
+    "name": "Parallax",
+    "challenge": "5 kills in a match",
+    "target": 300
+   },
+   {
+    "name": "Damascus Reforged",
+    "challenge": "2 kills without plating",
+    "target": 200
+   },
+   {
+    "name": "Empyros",
+    "challenge": "Top 5 finish with at least 6 kills",
+    "target": 75
+   }
+  ]
+ },
+ "prestige": [
+  {
+   "name": "Pyroclast",
+   "requirement": "Weapon Prestige 1, level 1"
+  },
+  {
+   "name": "Pyroclast Terminus",
+   "requirement": "Weapon Prestige 1, max level"
+  },
+  {
+   "name": "Pyroclast Scatter",
+   "requirement": "Prestige Master level 150"
+  },
+  {
+   "name": "Pyroclast Cascade",
+   "requirement": "Prestige Master level 250"
+  }
+ ]
+}
