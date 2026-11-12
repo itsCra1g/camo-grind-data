@@ -4,7 +4,7 @@
  "game": "Call of Duty: Modern Warfare 4",
  "short": "MW4",
  "year": 2026,
- "rev": 2,
+ "rev": 6,
  "updated": "2026-11-12",
  "notes": "Weapon names are used to keep progress, so never rename a weapon once released. Specials: name, then the challenge in Multiplayer, DMZ and Warzone (blank = not confirmed yet).",
  "modes": {
@@ -123,7 +123,7 @@
      "specials": [
       {
        "name": "Samnim",
-       "mp": "4 kills without dying, 10 times",
+       "mp": "3 kills without dying, 10 times",
        "dmz": "5 kills without taking damage, 25 times",
        "wz": "3 kills without dying, 5 times"
       },
@@ -357,19 +357,19 @@
        "name": "Struck Oil",
        "mp": "20 point blank kills",
        "dmz": "75 point blank kills",
-       "wz": ""
+       "wz": "10 point blank kills"
       },
       {
        "name": "Brushstroke",
        "mp": "10 longshot kills",
        "dmz": "50 longshot kills",
-       "wz": ""
+       "wz": "5 longshot kills"
       },
       {
        "name": "White Pine",
        "mp": "40 kills while jumping",
        "dmz": "100 kills while jumping",
-       "wz": ""
+       "wz": "20 kills while jumping"
       }
      ]
     },
@@ -381,19 +381,19 @@
        "name": "Redshift",
        "mp": "20 kills while moving",
        "dmz": "75 kills while moving",
-       "wz": ""
+       "wz": "10 kills while moving"
       },
       {
        "name": "Corrupted Clay",
        "mp": "10 double kills",
        "dmz": "30 double kills",
-       "wz": ""
+       "wz": "2 kills within 10 seconds, 5 times"
       },
       {
        "name": "Magma Ire",
        "mp": "50 kills while prone",
        "dmz": "125 kills while prone",
-       "wz": ""
+       "wz": "25 kills while prone"
       }
      ]
     }
@@ -413,19 +413,19 @@
        "name": "Desert Tactics",
        "mp": "20 point blank kills",
        "dmz": "75 point blank kills",
-       "wz": ""
+       "wz": "10 point blank kills"
       },
       {
        "name": "Green Tiger",
        "mp": "2 kills without reloading, 10 times",
        "dmz": "2 kills without reloading, 30 times",
-       "wz": ""
+       "wz": "2 kills without reloading, 5 times"
       },
       {
        "name": "Thunderhead",
        "mp": "30 longshot kills",
        "dmz": "100 longshot kills",
-       "wz": ""
+       "wz": "15 longshot kills"
       }
      ]
     },
@@ -493,19 +493,19 @@
        "name": "Mangrove",
        "mp": "20 mounted kills",
        "dmz": "75 mounted kills",
-       "wz": ""
+       "wz": "10 mounted kills"
       },
       {
        "name": "Fungal Grid",
        "mp": "25 kills while crouched",
        "dmz": "75 kills while crouched",
-       "wz": ""
+       "wz": "15 kills while crouched"
       },
       {
        "name": "White",
        "mp": "30 longshot kills",
        "dmz": "100 longshot kills",
-       "wz": ""
+       "wz": "15 longshot kills"
       }
      ]
     },
@@ -653,19 +653,19 @@
        "name": "Autumn",
        "mp": "25 kills while ADS",
        "dmz": "75 kills while ADS",
-       "wz": ""
+       "wz": "15 kills while aiming down sights"
       },
       {
        "name": "Snakeskin",
        "mp": "3 kills without dying, 5 times",
        "dmz": "3 kills without taking damage, 15 times",
-       "wz": ""
+       "wz": "3 kills without dying, 3 times"
       },
       {
        "name": "Space Time",
        "mp": "50 kills with Akimbo",
        "dmz": "125 kills with Akimbo",
-       "wz": ""
+       "wz": "25 kills with akimbo"
       }
      ]
     },
@@ -757,20 +757,20 @@
       {
        "name": "Frontier",
        "mp": "10 direct shot kills",
-       "dmz": "",
-       "wz": ""
+       "dmz": "25 direct shot kills",
+       "wz": "5 direct shot kills"
       },
       {
        "name": "Sandwash",
        "mp": "5 double kills",
-       "dmz": "",
-       "wz": ""
+       "dmz": "100 double kills",
+       "wz": "2 kills within 10 seconds, 3 times"
       },
       {
        "name": "Digital Fall",
        "mp": "Destroy 30 killstreaks or vehicles",
-       "dmz": "",
-       "wz": ""
+       "dmz": "Destroy 50 killstreaks or vehicles",
+       "wz": "Destroy 15 killstreaks or vehicles"
       }
      ]
     },
@@ -781,20 +781,20 @@
       {
        "name": "Digi Bark",
        "mp": "10 kills while prone",
-       "dmz": "",
-       "wz": ""
+       "dmz": "25 kills while prone",
+       "wz": "5 kills while prone"
       },
       {
        "name": "Stone Bits",
        "mp": "10 longshot kills",
-       "dmz": "",
-       "wz": ""
+       "dmz": "25 longshot kills",
+       "wz": "5 longshot kills"
       },
       {
        "name": "Bubblegum Ops",
        "mp": "Destroy 30 killstreaks or vehicles",
-       "dmz": "",
-       "wz": ""
+       "dmz": "Destroy 50 killstreaks or vehicles",
+       "wz": "Destroy 15 killstreaks or vehicles"
       }
      ]
     },
@@ -805,20 +805,20 @@
       {
        "name": "Thicket",
        "mp": "5 double kills",
-       "dmz": "",
-       "wz": ""
+       "dmz": "15 double kills",
+       "wz": "2 kills within 10 seconds, 3 times"
       },
       {
        "name": "Tectonic",
        "mp": "10 longshot kills",
-       "dmz": "",
-       "wz": ""
+       "dmz": "25 longshot kills",
+       "wz": "5 longshot kills"
       },
       {
        "name": "Blue Tiger",
        "mp": "Destroy 30 killstreaks or vehicles",
-       "dmz": "",
-       "wz": ""
+       "dmz": "Destroy 50 killstreaks or vehicles",
+       "wz": "Destroy 15 killstreaks or vehicles"
       }
      ]
     },
@@ -829,20 +829,20 @@
       {
        "name": "Night Snow",
        "mp": "25 direct shot kills",
-       "dmz": "",
-       "wz": ""
+       "dmz": "25 direct shot kills",
+       "wz": "10 direct shot kills"
       },
       {
        "name": "Recursive",
        "mp": "2 kills without reloading, 5 times",
-       "dmz": "",
-       "wz": ""
+       "dmz": "2 kills without reloading, 20 times",
+       "wz": "2 kills without reloading, 3 times"
       },
       {
        "name": "Urban Standard",
        "mp": "40 kills while moving",
-       "dmz": "",
-       "wz": ""
+       "dmz": "100 kills while moving",
+       "wz": "20 kills while moving"
       }
      ]
     }
@@ -890,21 +890,21 @@
    "specials": [
     {
      "name": "In The Weeds",
-     "mp": "",
-     "dmz": "",
-     "wz": ""
+     "mp": "20 hipfire kills",
+     "dmz": "75 hipfire kills",
+     "wz": "10 hipfire kills"
     },
     {
      "name": "Dark Ichor",
-     "mp": "",
-     "dmz": "",
-     "wz": ""
+     "mp": "50 kills while aiming down sights",
+     "dmz": "125 kills while aiming down sights",
+     "wz": "30 kills while aiming down sights"
     },
     {
      "name": "Chained",
-     "mp": "",
-     "dmz": "",
-     "wz": ""
+     "mp": "2 kills without reloading, 25 times",
+     "dmz": "Kills without reloading, 100 times",
+     "wz": "2 kills without reloading, 20 times"
     }
    ]
   },
@@ -916,21 +916,21 @@
    "specials": [
     {
      "name": "Polyhedron",
-     "mp": "",
-     "dmz": "",
-     "wz": ""
+     "mp": "3 kills without dying, 20 times",
+     "dmz": "3 kills without taking damage, 30 times",
+     "wz": "3 kills without dying, 5 times"
     },
     {
      "name": "Rind",
-     "mp": "",
-     "dmz": "",
-     "wz": ""
+     "mp": "50 kills with a silencer",
+     "dmz": "125 kills with a silencer",
+     "wz": "30 kills with a silencer"
     },
     {
      "name": "Black Grip",
-     "mp": "",
-     "dmz": "",
-     "wz": ""
+     "mp": "50 kills while moving",
+     "dmz": "100 kills while moving",
+     "wz": "20 kills while moving"
     }
    ]
   },
