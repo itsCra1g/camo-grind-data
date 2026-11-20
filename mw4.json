@@ -4,8 +4,8 @@
  "game": "Call of Duty: Modern Warfare 4",
  "short": "MW4",
  "year": 2026,
- "rev": 6,
- "updated": "2026-11-12",
+ "rev": 7,
+ "updated": "2026-11-20",
  "notes": "Weapon names are used to keep progress, so never rename a weapon once released. Specials: name, then the challenge in Multiplayer, DMZ and Warzone (blank = not confirmed yet).",
  "modes": {
   "wz": "Warzone",
@@ -13,13 +13,13 @@
   "dmz": "DMZ"
  },
  "military": 8,
- "gold": "15 kills in a single match (DMZ: 100)",
+ "gold": "15 kills in a single match (DMZ: 100, Warzone: 8)",
  "classes": [
   {
    "id": "ar",
    "name": "Assault Rifles",
-   "platinum": "50 headshots",
-   "harmonic": "25 double kills (DMZ: 50)",
+   "platinum": "50 headshots (DMZ: 100, Warzone: 25)",
+   "harmonic": "25 double kills (DMZ: 50; Warzone: 2 kills within 10 seconds, 15 times)",
    "weapons": [
     {
      "name": "Han 86",
@@ -158,7 +158,7 @@
        "wz": "2 kills without reloading, 5 times"
       },
       {
-       "name": "Hotrod",
+       "name": "Hot Rod",
        "mp": "100 kills while ADS",
        "dmz": "250 kills while ADS",
        "wz": "45 kills while ADS"
@@ -218,8 +218,8 @@
   {
    "id": "smg",
    "name": "SMGs",
-   "platinum": "25 kills from behind",
-   "harmonic": "50 hipfire kills (DMZ: 100)",
+   "platinum": "25 kills from behind (DMZ: 75, Warzone: 15)",
+   "harmonic": "50 hipfire kills (DMZ: 100, Warzone: 25)",
    "weapons": [
     {
      "name": "ISO Nightshade",
@@ -346,8 +346,8 @@
   {
    "id": "sg",
    "name": "Shotguns",
-   "platinum": "50 hipfire kills",
-   "harmonic": "2 kills without reloading, 25 times (DMZ: 50)",
+   "platinum": "50 hipfire kills (DMZ: 125, Warzone: 25)",
+   "harmonic": "2 kills without reloading, 25 times (DMZ: 50 times, Warzone: 15 times)",
    "weapons": [
     {
      "name": "Rezi 12",
@@ -402,8 +402,8 @@
   {
    "id": "lmg",
    "name": "LMGs",
-   "platinum": "3 kills without dying, 15 times",
-   "harmonic": "2 kills without releasing the trigger, 25 times (DMZ: 75)",
+   "platinum": "3 kills without dying, 15 times (DMZ: 3 kills without taking damage, 50 times, or 75 on the Type 73; Warzone: 10 times)",
+   "harmonic": "2 kills without releasing the trigger, 25 times (DMZ: 75 times, Warzone: 15 times)",
    "weapons": [
     {
      "name": "FiNN LMG",
@@ -482,8 +482,8 @@
   {
    "id": "mr",
    "name": "Marksman Rifles",
-   "platinum": "75 kills while prone",
-   "harmonic": "75 one-shot kills (DMZ: 150)",
+   "platinum": "75 kills while prone (DMZ: 150, Warzone: 35)",
+   "harmonic": "75 one-shot kills (DMZ: 150; Warzone: 45 kills without taking damage from the target)",
    "weapons": [
     {
      "name": "MAR-9",
@@ -562,8 +562,8 @@
   {
    "id": "sr",
    "name": "Sniper Rifles",
-   "platinum": "75 kills while prone",
-   "harmonic": "75 one-shot kills (DMZ: 150)",
+   "platinum": "75 kills while prone (DMZ: 150, or 200 on the Signal 50; Warzone: 35)",
+   "harmonic": "75 one-shot kills (DMZ: 150, or 200 on the Signal 50; Warzone: 35)",
    "weapons": [
     {
      "name": "KG-7 Vulcan",
@@ -642,8 +642,8 @@
   {
    "id": "pi",
    "name": "Pistols",
-   "platinum": "20 kills from behind",
-   "harmonic": "40 hipfire kills (DMZ: 100)",
+   "platinum": "20 kills from behind (DMZ: 75, Warzone: 10)",
+   "harmonic": "40 hipfire kills (DMZ: 100, Warzone: 20)",
    "weapons": [
     {
      "name": "Sang 9mm",
@@ -746,9 +746,9 @@
   {
    "id": "la",
    "name": "Launchers",
-   "platinum": "2 kills without taking damage, 15 times",
-   "harmonic": "10 player kills in a match, 7 times (DMZ: 15)",
-   "gold": "15 kills in a match (DMZ: 50)",
+   "platinum": "2 kills without taking damage, 15 times (DMZ: 50 times, Warzone: 8 times)",
+   "harmonic": "10 kills in a match, 7 times (DMZ: 15 times, Warzone: 5 times)",
+   "gold": "15 kills in a single match (DMZ: 50, Warzone: 8)",
    "weapons": [
     {
      "name": "PILA",
@@ -851,8 +851,8 @@
   {
    "id": "me",
    "name": "Melee",
-   "platinum": "3 kills without dying, 15 times",
-   "harmonic": "25 kills from behind (DMZ: 75)",
+   "platinum": "3 kills without dying, 15 times (DMZ: 3 kills without taking damage, 50 times; Warzone: 10 times)",
+   "harmonic": "25 kills from behind (DMZ: 75, Warzone: 15)",
    "weapons": [
     {
      "name": "FSS Carbon Edge 1095",
@@ -886,7 +886,7 @@
    "class": "ar",
    "name": "Cronen Osprey",
    "maxLevel": 70,
-   "unlock": "Season 1 \u00b7 Battle Pass tier 16",
+   "unlock": "Season 1 · Battle Pass tier 16",
    "specials": [
     {
      "name": "In The Weeds",
@@ -912,7 +912,7 @@
    "class": "smg",
    "name": "CSG-35",
    "maxLevel": 42,
-   "unlock": "Season 1 \u00b7 Battle Pass tier 36",
+   "unlock": "Season 1 · Battle Pass tier 36",
    "specials": [
     {
      "name": "Polyhedron",
@@ -938,13 +938,13 @@
    "class": "sg",
    "name": "JAK 12",
    "maxLevel": 0,
-   "unlock": "Season 1 \u00b7 midseason event"
+   "unlock": "Season 1 · midseason event"
   },
   {
    "class": "me",
    "name": "ZLR Talonhawk",
    "maxLevel": 10,
-   "unlock": "Season 1 \u00b7 midseason event"
+   "unlock": "Season 1 · midseason event"
   }
  ],
  "mastery": {
