@@ -4,9 +4,9 @@
  "game": "Call of Duty: Modern Warfare 4",
  "short": "MW4",
  "year": 2026,
- "rev": 7,
- "updated": "2026-11-20",
- "notes": "Weapon names are used to keep progress, so never rename a weapon once released. Specials: name, then the challenge in Multiplayer, DMZ and Warzone (blank = not confirmed yet).",
+ "rev": 8,
+ "updated": "2026-11-25",
+ "notes": "Weapon names are used to keep progress, so never rename a weapon once released. Specials: name, then the challenge in Multiplayer, DMZ and Warzone (blank = not confirmed yet). Season weapons that the game counts towards Gold, Platinum and the class totals go in their class (Cronen Osprey and CSG-35 since rev 8); ones not out yet or not counted stay in season.",
  "modes": {
   "wz": "Warzone",
   "mp": "Multiplayer",
@@ -212,6 +212,30 @@
        "wz": "3 kills without dying, 10 times"
       }
      ]
+    },
+    {
+     "name": "Cronen Osprey",
+     "maxLevel": 70,
+     "specials": [
+      {
+       "name": "In The Weeds",
+       "mp": "20 hipfire kills",
+       "dmz": "75 hipfire kills",
+       "wz": "10 hipfire kills"
+      },
+      {
+       "name": "Dark Ichor",
+       "mp": "50 kills while aiming down sights",
+       "dmz": "125 kills while aiming down sights",
+       "wz": "30 kills while aiming down sights"
+      },
+      {
+       "name": "Chained",
+       "mp": "2 kills without reloading, 25 times",
+       "dmz": "Kills without reloading, 100 times",
+       "wz": "2 kills without reloading, 20 times"
+      }
+     ]
     }
    ]
   },
@@ -338,6 +362,30 @@
        "mp": "40 headshot kills",
        "dmz": "100 headshots",
        "wz": "20 headshot kills"
+      }
+     ]
+    },
+    {
+     "name": "CSG-35",
+     "maxLevel": 42,
+     "specials": [
+      {
+       "name": "Polyhedron",
+       "mp": "3 kills without dying, 20 times",
+       "dmz": "3 kills without taking damage, 30 times",
+       "wz": "3 kills without dying, 5 times"
+      },
+      {
+       "name": "Rind",
+       "mp": "50 kills with a silencer",
+       "dmz": "125 kills with a silencer",
+       "wz": "30 kills with a silencer"
+      },
+      {
+       "name": "Black Grip",
+       "mp": "50 kills while moving",
+       "dmz": "100 kills while moving",
+       "wz": "20 kills while moving"
       }
      ]
     }
@@ -882,58 +930,6 @@
   }
  ],
  "season": [
-  {
-   "class": "ar",
-   "name": "Cronen Osprey",
-   "maxLevel": 70,
-   "unlock": "Season 1 · Battle Pass tier 16",
-   "specials": [
-    {
-     "name": "In The Weeds",
-     "mp": "20 hipfire kills",
-     "dmz": "75 hipfire kills",
-     "wz": "10 hipfire kills"
-    },
-    {
-     "name": "Dark Ichor",
-     "mp": "50 kills while aiming down sights",
-     "dmz": "125 kills while aiming down sights",
-     "wz": "30 kills while aiming down sights"
-    },
-    {
-     "name": "Chained",
-     "mp": "2 kills without reloading, 25 times",
-     "dmz": "Kills without reloading, 100 times",
-     "wz": "2 kills without reloading, 20 times"
-    }
-   ]
-  },
-  {
-   "class": "smg",
-   "name": "CSG-35",
-   "maxLevel": 42,
-   "unlock": "Season 1 · Battle Pass tier 36",
-   "specials": [
-    {
-     "name": "Polyhedron",
-     "mp": "3 kills without dying, 20 times",
-     "dmz": "3 kills without taking damage, 30 times",
-     "wz": "3 kills without dying, 5 times"
-    },
-    {
-     "name": "Rind",
-     "mp": "50 kills with a silencer",
-     "dmz": "125 kills with a silencer",
-     "wz": "30 kills with a silencer"
-    },
-    {
-     "name": "Black Grip",
-     "mp": "50 kills while moving",
-     "dmz": "100 kills while moving",
-     "wz": "20 kills while moving"
-    }
-   ]
-  },
   {
    "class": "sg",
    "name": "JAK 12",
