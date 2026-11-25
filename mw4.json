@@ -4,9 +4,12 @@
  "game": "Call of Duty: Modern Warfare 4",
  "short": "MW4",
  "year": 2026,
- "rev": 8,
+ "rev": 9,
  "updated": "2026-11-25",
- "notes": "Weapon names are used to keep progress, so never rename a weapon once released. Specials: name, then the challenge in Multiplayer, DMZ and Warzone (blank = not confirmed yet). Season weapons that the game counts towards Gold, Platinum and the class totals go in their class (Cronen Osprey and CSG-35 since rev 8); ones not out yet or not counted stay in season.",
+ "notes": "Weapon names are used to keep progress, so never rename a weapon once released. Specials: name, then the challenge in Multiplayer, DMZ and Warzone (blank = not confirmed yet). Season weapons that the game counts towards Gold, Platinum and the class totals go in their class (Cronen Osprey and CSG-35 since rev 8); ones not out yet or not counted stay in season. gates.weapons is how many weapons the account-wide camos need (Platinum for Harmonic Break, Harmonic Break for Divergence): 33 in MW4 however many guns seasons add.",
+ "gates": {
+  "weapons": 33
+ },
  "modes": {
   "wz": "Warzone",
   "mp": "Multiplayer",
